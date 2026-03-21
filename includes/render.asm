@@ -1,0 +1,2 @@
+clearBuffer:
+	mov esi, backBuffer
